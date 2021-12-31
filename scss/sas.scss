@@ -1,0 +1,28 @@
+@import "main";
+@import "bucle";
+@import "color";
+@import "producto";
+@import "nosotros";
+@import "contacto";
+
+div.bg-carousel {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/Inicio.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; }
+
+.titulo-nosotros  {
+    color: $color;
+    
+}
+.subtitulo-nosotros{
+    color: $color;
+}
+
+.titulo-productos{
+    color: $color;
+}
+
+p{
+    font-size: 16px;
+}

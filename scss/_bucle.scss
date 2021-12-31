@@ -1,0 +1,11 @@
+@mixin body {
+    background-color: black;
+    overflow: scroll;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    box-sizing: border-box;
+}
+
+body{
+    @include body;
+}

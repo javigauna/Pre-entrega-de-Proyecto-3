@@ -1,0 +1,15 @@
+@import "color";
+.producto-img {
+    width: 350px;
+    height: 350px;
+    border: 2px ridge $color;
+    border-radius: 15px;
+}
+
+.descripcion{
+    font-size: 20px;
+    color: $color;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
