@@ -1,5 +1,5 @@
 main div .img-main {
-  background: url(../img/carrusel.jpg);
+  background: url("/img/carrusel.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -33,7 +33,7 @@ body {
   padding: 16px; }
 
 div .bg-nosotros {
-  background: linear-gradient(rgba(24, 6, 27, 0.397), rgba(4, 5, 37, 0.5)), url(../img/nosotros.jpg);
+  background: linear-gradient(rgba(24, 6, 27, 0.397), rgba(4, 5, 37, 0.5)), url("/img/nosotros.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center; }
@@ -51,7 +51,7 @@ main div .img-ubicacion {
   font-family: 'Roboto', sans-serif; }
 
 .bg-contacto {
-  background-image: url(../img/contacto.jpg);
+  background-image: url("/img/contacto.jpg");
   background-position: center center;
   background-size: cover; }
 
