@@ -1,5 +1,7 @@
-div .bg-contacto {
-    background-image: url(../img/contacto.jpg) ;
-    background-position: center center;
-    background-size: cover;
+div {
+    div .bg-contacto {
+        background-image: url(../img/contacto.jpg) ;
+        background-position: center center;
+        background-size: cover;
+    }
 }
