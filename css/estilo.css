@@ -50,7 +50,7 @@ main div .img-ubicacion {
 .text-light {
   font-family: 'Roboto', sans-serif; }
 
-div div .bg-contacto {
+div .bg-contacto {
   background-image: url(../img/contacto.jpg);
   background-position: center center;
   background-size: cover; }
