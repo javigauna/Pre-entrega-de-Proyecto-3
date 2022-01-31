@@ -1,5 +1,5 @@
 main div .img-main {
-  background: url(/img/carrusel.jpg);
+  background: url(../img/carrusel.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -39,7 +39,7 @@ div .bg-nosotros {
   background-position: center; }
 
 main div .img-ubicacion {
-  background: url(/img/ubicacion.jpg);
+  background: url(../img/ubicacion.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -51,7 +51,7 @@ main div .img-ubicacion {
   font-family: 'Roboto', sans-serif; }
 
 .bg-contacto {
-  background-image: url(/img/contacto.jpg);
+  background-image: url(../img/contacto.jpg);
   background-position: center center;
   background-size: cover; }
 
