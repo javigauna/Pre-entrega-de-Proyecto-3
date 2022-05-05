@@ -17,21 +17,6 @@ body {
   font-family: 'Playfair Display', serif;
   box-sizing: border-box; }
 
-.producto-img {
-  width: 350px;
-  height: 350px;
-  border: 2px ridge #fbbb08;
-  border-radius: 15px; }
-
-.descripcion {
-  font-size: 35px;
-  color: #fbbb08;
-  padding: 5px;
-  margin: 5px; }
-
-.Producto-text {
-  padding: 16px; }
-
 div div .bg-nosotros {
   background: linear-gradient(rgba(24, 6, 27, 0.397), rgba(4, 5, 37, 0.5)), url(../img/nosotros.jpg);
   background-size: cover;
@@ -72,3 +57,16 @@ div.bg-carousel {
 
 p {
   font-size: 16px; }
+
+.card{
+  min-height: 300px;
+  max-width: 250px;
+  margin: 0 auto;
+  width: 100%;
+}
+  .card-img-top{
+    width: 9rem;
+    height: 9rem;
+    object-fit: contain;
+    border-radius: 6px;
+    margin-right: 20px;}

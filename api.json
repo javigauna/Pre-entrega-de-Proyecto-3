@@ -1,0 +1,52 @@
+[
+    {
+      "precio": 300,
+      "id": 1,
+      "title": "Ambar",
+      "thumbnailUrl": "./img/ambar.png"
+    },
+    {
+      "precio": 300,
+      "id": 2,
+      "title": "Monasterio",
+      "thumbnailUrl": "./img/bronce.png"
+    },
+    {
+      "precio": 300,
+      "id": 3,
+      "title": "Porter",
+      "thumbnailUrl": "./img/chocolate.png"
+    },
+    {
+      "precio": 300,
+      "id": 4,
+      "title": "Playa Grande",
+      "thumbnailUrl": "./img/citrica.png"
+    },
+    {
+      "precio": 300,
+      "id": 5,
+      "title": "Kolsch",
+      "thumbnailUrl": "./img/dorada.png"
+    },
+    {
+      "precio": 300,
+      "id": 6,
+      "title": "Barley Wine",
+      "thumbnailUrl": "./img/frutado.png"
+    },
+
+    {
+        "precio": 300,
+        "id": 7,
+        "title": "Catalina la Grande",
+        "thumbnailUrl": "./img/negra.png"
+      },
+
+    {
+        "precio": 300,
+        "id": 8,
+        "title": "Scotch",
+        "thumbnailUrl": "./img/roja.png"
+      }
+  ]
